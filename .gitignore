@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+.env
+logs/
+models/
+*.h5
+*.keras
+*.zip
+*.tar.gz
+.DS_Store
